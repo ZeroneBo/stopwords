@@ -11,7 +11,6 @@
 
 <!--
 ### GitHub仓库星标统计
-<!--替换成自己的仓库和名字就可以用了-->
 [![Stargazers over time](https://starchart.cc/ZeroneBo/stopwords.svg)](https://starchart.cc/ZeroneBo/stopwords)
 -->
 
